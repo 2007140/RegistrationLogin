@@ -40,13 +40,22 @@ registrationlogin/
    - Displays a personalized welcome message if successful, or an error message if not.  
 
 ## References
-- **Java Documentation**: [Oracle Java SE 8 Docs](https://docs.oracle.com/javase/8/docs/)  
-- **Regex in Java**: [Pattern Class](https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html)  
-- **Scanner Class**: [Scanner API](https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html)  
-- **Java Tutorials**: [Official Java Tutorials](https://docs.oracle.com/javase/tutorial/)  
+Farrell, J., 2023. Java Programming. 10th ed. Boston: Cengage Learning.
+
+JUnit Team, 2026. JUnit 4 Documentation. [Online]  
+Available at: https://junit.org/junit4/  
+[Accessed 18 September 2026].
+
+Oracle, 2023. Class Pattern. [Online]  
+Available at: https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/regex/Pattern.html  
+[Accessed 18 September 2026].
+
+Oracle, 2023. Class Scanner. [Online]  
+Available at: https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/Scanner.html  
+[Accessed 18 September 2026]. 
 
 ## License
 This project is licensed under the **MIT License**. You are free to use, modify, and distribute it with attribution.
 
 ## Code's functionality
-The login class has methods that handles all validation user details. 
+The login class has methods that handles all validation user details. The registration login class contains the main method which manages user interaction.
