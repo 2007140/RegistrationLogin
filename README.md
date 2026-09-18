@@ -58,4 +58,4 @@ Available at: https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/
 This project is licensed under the **MIT License**. You are free to use, modify, and distribute it with attribution.
 
 ## Code's functionality
-The login class has methods that handles all validation user details. The registration login class contains the main method which manages user interaction. It has loops that validates input for each field.
+The login class has methods that handles all validation user details. The registration login class contains the main method which manages user interaction. It has loops that validates input for each field. If registration is successful, the user is asked to login. A welcome message is then displayed.
